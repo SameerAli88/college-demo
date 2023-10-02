@@ -1,4 +1,4 @@
 # college-demo
 This is my Git repository.
 <br>
-Author - Sameer Ali
+Author - Sameer Ali (college)
